@@ -1,0 +1,6 @@
+{
+  "name": "LMS PKBM Insan Cita",
+  "description": "Sistem Informasi Pembelajaran Digital Pendidikan Kesetaraan (Paket A, Paket B, Paket C) PKBM Insan Cita terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
